@@ -1,0 +1,2 @@
+# YOLOv5s
+利用YOLOv5s对VOC2012进行训练
